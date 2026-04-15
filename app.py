@@ -47,7 +47,7 @@ def check_app_password() -> bool:
         else:
             st.error("Incorrect password. Please try again.")
 
-    st.info("Set APP_PASSWORD in your .env file to limit who can use this app.")
+    st.info("Please reach to Adrian to get the app password.")
     return False
 
 
