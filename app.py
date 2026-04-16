@@ -47,7 +47,7 @@ def check_app_password() -> bool:
         else:
             st.error("Incorrect password. Please try again.")
 
-    st.info("Please reach to Adrian to get the app password.")
+    st.info("Please reach out to Adrian to get the app password.")
     return False
 
 
